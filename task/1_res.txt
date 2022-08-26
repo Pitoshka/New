@@ -1,0 +1,3 @@
+Case	One Book	        Low Book	Rating	        Product Date	Pairings
+5 Hd	STB/Other	        LT	        ST POL Rating L	C	            C LM 5
+9 Hd	LT	                GTD	        Rating L	    C	            C LM 1
